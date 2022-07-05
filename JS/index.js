@@ -6,9 +6,6 @@ const arrayCategoria = [];
 let contadorProd = 0;
 let contadorCat = 0;
 
-let saludoInicial = alert('Bienvenido! Gracias por visitar Gemini :)'); 
-prompt(registroClientes() );
-let saludoFinal = alert('Gracias por comprar en Gemini');
 
 
 // FUNCIONES
